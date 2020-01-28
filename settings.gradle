@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='LS02-calculator'
+rootProject.name='Beer Adviser'
